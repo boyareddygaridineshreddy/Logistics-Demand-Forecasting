@@ -89,6 +89,55 @@ Generated a cleaned logistics dataset named `week2_cleaned_logistics_data.csv`.
 
 Note: The project uses simulated sample data for demonstration.
 
+## Week 3: Advanced Data Analysis and Visualization in Logistics
+
+### Objective
+To perform advanced exploratory data analysis (EDA) on logistics shipment data and create visualizations to identify important patterns, relationships, and trends.
+
+### Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Implementation
+- Generated a sample dataset containing 100 shipment records.
+- Analyzed delivery days, shipment volume, distance, transportation cost, and transport mode.
+- Calculated statistical measures such as mean, median, and mode.
+- Examined correlations between numerical variables.
+- Identified delivery status and transportation patterns.
+- Created five visualizations to understand the dataset.
+
+### Visualizations
+1. Delivery Time Histogram
+2. Shipment Volume Bar Chart
+3. Transportation Cost Boxplot
+4. Distance vs. Cost Scatter Plot
+5. Correlation Heatmap
+
+### Key Findings
+- Total shipment records analyzed: 100.
+- Average delivery time: 5.91 days.
+- Average shipment volume: 108.69.
+- Average distance: 514.62 KM.
+- Average transportation cost: 3795.76.
+- Successfully delivered shipments: 62.
+- Delayed shipments: 38.
+- Road transport was the most frequently used mode.
+- Distance and transportation cost showed a positive correlation of approximately 0.65.
+
+### Project Outputs
+- `logistics_dataset.csv`
+- `delivery_time_histogram.png`
+- `shipment_volume_bar_chart.png`
+- `transport_cost_boxplot.png`
+- `distance_cost_scatterplot.png`
+- `correlation_heatmap.png`
+
+### Outcome
+This task provided practical experience in exploratory data analysis, statistical analysis, data interpretation, and visualization. The findings help understand logistics performance and identify areas where delivery efficiency and transportation costs can be improved.
+
 ## Week 4: Predictive Modeling and Optimization in Logistics Systems
 
 ### Objective
