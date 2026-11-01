@@ -138,6 +138,18 @@ To perform advanced exploratory data analysis (EDA) on logistics shipment data a
 ### Outcome
 This task provided practical experience in exploratory data analysis, statistical analysis, data interpretation, and visualization. The findings help understand logistics performance and identify areas where delivery efficiency and transportation costs can be improved.
 
+### Visualization Results
+#### 1. Delivery Time Distribution
+![Delivery Time Histogram](week3/delivery_time_histogram.png)
+#### 2. Shipment Volume Analysis
+![Shipment Volume Bar Chart](week3/shipment_volume_bar_chart.png)
+#### 3. Transportation Cost Analysis
+![Transport Cost Boxplot](week3/transport_cost_boxplot.png)
+#### 4. Distance vs Transportation Cost
+![Distance Cost Scatter Plot](week3/distance_cost_scatterplot.png)
+#### 5. Correlation Analysis
+![Correlation Heatmap](week3/correlation_heatmap.png)
+
 ## Week 4: Predictive Modeling and Optimization in Logistics Systems
 
 ### Objective
