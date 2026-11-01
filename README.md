@@ -58,3 +58,33 @@ The included dataset is synthetic sample data created for demonstration purposes
 
 ## Conclusion
 This project demonstrates how data analysis and demand forecasting can support inventory planning and logistics decision-making.
+
+
+## Week 2: Data Collection, Cleaning, and Preprocessing
+
+### Objective
+To prepare logistics data for analysis by identifying and handling data quality issues.
+
+### Tasks Completed
+- Created a sample logistics dataset.
+- Identified missing values.
+- Handled missing numerical values using median imputation.
+- Removed duplicate records.
+- Corrected data types.
+- Standardized categorical values.
+- Detected outliers using the IQR method.
+- Applied Min-Max normalization.
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Output
+Generated a cleaned logistics dataset named `week2_cleaned_logistics_data.csv`.
+
+### Project File
+`week2_data_preprocessing.py`
+
+Note: The project uses simulated sample data for demonstration.
