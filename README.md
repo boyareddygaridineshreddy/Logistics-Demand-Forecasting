@@ -88,3 +88,37 @@ Generated a cleaned logistics dataset named `week2_cleaned_logistics_data.csv`.
 `week2_data_preprocessing.py`
 
 Note: The project uses simulated sample data for demonstration.
+
+## Week 4: Predictive Modeling and Optimization in Logistics Systems
+
+### Objective
+Develop machine learning models to predict shipment delivery time and evaluate their performance.
+
+### Tools and Technologies
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Linear Regression
+- Random Forest Regression
+
+### Implementation
+- Generated a dataset containing 200 shipment records.
+- Prepared input features and target values.
+- Split the dataset into 80% training and 20% testing.
+- Trained Linear Regression and Random Forest models.
+- Evaluated both models using MAE, RMSE, R² score, and 5-fold cross-validation.
+
+### Results
+- Linear Regression MAE: 0.655
+- Linear Regression RMSE: 0.843
+- Linear Regression R²: 0.771
+- Random Forest MAE: 0.759
+- Random Forest RMSE: 0.986
+- Random Forest R²: 0.686
+
+Linear Regression achieved better performance on the generated dataset.
+
+### Output Files
+- week4_logistics_dataset.csv
+- model_performance_results.csv
+- delivery_predictions.csv
