@@ -60,12 +60,6 @@ This project demonstrates a simple logistics demand forecasting system. It analy
 - Generate basic demand forecasts.
 - Support better inventory planning.
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- CSV Dataset
-
 ## Project Files
 - main.py – Main Python application.
 - sample_sales_data.csv – Illustrative sample sales dataset.
