@@ -60,6 +60,8 @@ The included dataset is synthetic sample data created for demonstration purposes
 This project demonstrates how data analysis and demand forecasting can support inventory planning and logistics decision-making.
 
 
+
+
 ## Week 2: Data Collection, Cleaning, and Preprocessing
 
 ### Objective
@@ -88,6 +90,8 @@ Generated a cleaned logistics dataset named `week2_cleaned_logistics_data.csv`.
 `week2_data_preprocessing.py`
 
 Note: The project uses simulated sample data for demonstration.
+
+
 
 ## Week 3: Advanced Data Analysis and Visualization in Logistics
 
@@ -149,6 +153,8 @@ This task provided practical experience in exploratory data analysis, statistica
 ![Distance Cost Scatter Plot](week3/distance_cost_scatterplot.png)
 #### 5. Correlation Analysis
 ![Correlation Heatmap](week3/correlation_heatmap.png)
+
+
 
 ## Week 4: Predictive Modeling and Optimization in Logistics Systems
 
