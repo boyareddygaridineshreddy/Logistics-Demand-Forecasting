@@ -1,6 +1,54 @@
 # Logistics-Demand-Forecasting
 Data Science project for inventory demand forecasting and logistics optimization using Python.
-# Logistics Demand Forecasting
+
+## Repository Structure
+
+```text
+Logistics-Demand-Forecasting/
+│
+├── week1/
+│   ├── main.py
+│   └── sample_sales_data.csv
+│
+├── week2/
+│   └── week2_data_preprocessing.py
+│
+├── week3/
+│   ├── week3_advanced_analysis.py
+│   ├── logistics_dataset.csv
+│   ├── delivery_time_histogram.png
+│   ├── shipment_volume_bar_chart.png
+│   ├── transport_cost_boxplot.png
+│   ├── distance_cost_scatterplot.png
+│   └── correlation_heatmap.png
+│
+├── week4/
+│   ├── week4_predictive_modeling.py
+│   ├── week4_logistics_dataset.csv
+│   ├── delivery_predictions.csv
+│   └── model_performance_results.csv
+│
+├── README.md
+└── requirements.txt
+```
+
+## Technologies Used
+
+- **Programming Language:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Development Environment:** Visual Studio Code
+- **Version Control:** Git and GitHub
+
+## Project Learning Outcomes
+
+- Understanding logistics data and demand forecasting.
+- Performing data cleaning and preprocessing.
+- Conducting exploratory data analysis.
+- Creating meaningful data visualizations.
+- Building and evaluating machine learning models.
+- Understanding predictive analytics in logistics operations.
 
 ## Project Overview
 This project demonstrates a simple logistics demand forecasting system. It analyzes product sales data, calculates important KPIs, and predicts the next day's demand using a 7-day moving average.
